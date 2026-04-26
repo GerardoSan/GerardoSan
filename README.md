@@ -26,7 +26,6 @@ Soy especialista en arquitectura Cloud con enfoque en:
 
 ---
 
-## 🖼️ Banner (Marca Personal)
 
 <p align="center">
   <img src="https://github.com/GerardoSan/GerardoSan/blob/main/PROFILE.png" width="100%" />
