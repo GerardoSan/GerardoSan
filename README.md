@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hola, soy Enrique Sánchez</h1>
 
 <h3 align="center">
-🚀 Cloud Architect | AIOps | Multi-Cloud | Terraform | AI
+🚀 Cloud Architect | AIOps | Multi-Cloud | Terraform | IA | DATA
 </h3>
 
 <p align="center">
