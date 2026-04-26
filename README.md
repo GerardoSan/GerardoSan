@@ -22,7 +22,9 @@ Soy especialista en arquitectura Cloud con enfoque en:
 - 📊 Data + AI + RAG
 - 🔐 Seguridad y optimización de costos (FinOps)
 
-💡 Mi enfoque: **convertir infraestructura en sistemas inteligentes, resilientes y automatizados**
+💡 Mi enfoque: **convertir infraestructura en sistemas inteligentes, resilientes y automatizados** 
+
+📌 Portafolio técnico: [GerardoSan/skills](https://github.com/GerardoSan/skills)
 
 ---
 
