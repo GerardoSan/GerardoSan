@@ -96,3 +96,9 @@ Soy especialista en arquitectura Cloud con enfoque en:
 > “La nube no es el destino, es el habilitador de sistemas inteligentes.”
 
 ---
+
+<p align="center">
+  <a href="https://pe.linkedin.com/in/enrique-sanchez-mendez-25362833">
+    <img src="https://img.shields.io/badge/🔗%20Mi%20Perfil%20Profesional-LinkedIn-blue?style=for-the-badge"/>
+  </a>
+</p>
