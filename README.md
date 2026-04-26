@@ -76,18 +76,6 @@ Soy especialista en arquitectura Cloud con enfoque en:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight" />
-</p>
-
----
-
 ## 🌐 Conecta conmigo
 
 <p align="center">
