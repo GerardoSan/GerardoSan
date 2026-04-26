@@ -78,15 +78,9 @@ Soy especialista en arquitectura Cloud con enfoque en:
 ## 🌐 Conecta conmigo
 
 <p align="center">
-
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
+  <a href="https://pe.linkedin.com/in/enrique-sanchez-mendez-25362833">
+    <img src="https://img.shields.io/badge/🔗%20Mi%20Perfil%20Profesional-LinkedIn-blue?style=for-the-badge"/>
+  </a>
 </p>
 
 ---
@@ -97,8 +91,4 @@ Soy especialista en arquitectura Cloud con enfoque en:
 
 ---
 
-<p align="center">
-  <a href="https://pe.linkedin.com/in/enrique-sanchez-mendez-25362833">
-    <img src="https://img.shields.io/badge/🔗%20Mi%20Perfil%20Profesional-LinkedIn-blue?style=for-the-badge"/>
-  </a>
-</p>
+
